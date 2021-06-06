@@ -1,0 +1,6 @@
+    
+https://graphql.bitquery.io
+https://countries.trevorblades.com/
+{https://countries-274616.ew.r.appspot.com/
+https://api.react-finland.fi/graphql
+https://api.travelgatex.com/
